@@ -6,7 +6,7 @@ module.exports = {
     },
 
     discord: {
-        id: 1178646732528173147,
+        id: 'MTE3ODY0NjczMjUyODE3MzE0Nw.GJlylu.3G8KF87VPLf9Fl4zGm4znZA7visToXhdY1CZPM',
         prefix: '!',
         footer: `© Corwin 2021 - ${new Date().getFullYear()}`, 
         botInvite: `https://discord.com/oauth2/authorize?&client_id=840212110817755157&scope=applications.commands+bot&permissions=8`,
